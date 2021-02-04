@@ -1,17 +1,23 @@
-# Emedit
+# <div align="center">My Profile</div>
 
   
 
-### <div align="center"> 🙌 Hi, My name is Itighise, Emmanuel Edet, and am a Freelance Frontend Developer.👨‍💻 working remotely.</div>  
+### <div align="center"> 🙌 Hi, My name is Itighise, Emmanuel Edet, and am a Freelance Frontend Developer💻 working remotely.</div>  
   
 
-- 🌱 I’m currently learning React with JsMastery   
+- 🌱 I’m currently learning React and Node.js with JsMastery   
   
 
-- ❓ Ask me about anything related to Php,Java and related technologies  
+- ❓ Ask me about anything related to Php,Java and related languages  
   
 
--  🎮 I play [torn](https://www.torn.com/2230743) in my spare time  
+-  🎮 I play [torn](https://www.torn.com/2230743) in my spare time 
+
+
+-  💴 Get N1000 by saving with Piggyvest using my [link](https://www.piggyvest.com/?newref=1&ref=6ba3fac4a90220) now
+
+-  🏧  Piggyvest Over ₦95,000,000,000 paid out in 2020!
+
   
 
 <br/>  
