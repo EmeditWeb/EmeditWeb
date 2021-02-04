@@ -16,7 +16,7 @@
 
 -  💴 Get N1000 by saving with Piggyvest using my [link](https://www.piggyvest.com/?newref=1&ref=6ba3fac4a90220) now
 
--  🏧  Piggyvest Over ₦95,000,000,000 paid out in 2020!
+-  🏧  Piggyvest : Over ₦95,000,000,000 paid out in 2020!
 
   
 
