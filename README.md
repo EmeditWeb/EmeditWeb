@@ -3,7 +3,7 @@
   <br>
 
   
-### <div align="center"> :wave: Hi, My name is Itighise, Emmanuel Edet, and am a Freelance Frontend Developer💻 working remotely.</div>  
+### <div align="center"> :wave: <em>Hi, My name is Itighise, Emmanuel Edet,<br> and am a Freelance Frontend Developer<br>💻 working remotely.</em></div>  
   
 
 - 🌱 I’m currently learning React and Node.js with JsMastery   
