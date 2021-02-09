@@ -21,6 +21,10 @@
 
 -  🏧  Piggyvest : Over ₦95,000,000,000 paid out in 2020!
 
+## <center>My Medals<center/>
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emeditweb" alt="ifeolulesi" /></a> </p>
 
   
 
