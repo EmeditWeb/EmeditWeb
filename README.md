@@ -24,7 +24,7 @@
 ## <center>My Medals<center/>
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emeditweb" alt="ifeolulesi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emeditweb" alt="emeditweb" /></a> </p>
 
   
 
@@ -87,7 +87,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmeditWeb&show_icons=true&locale=en&layout=compact" alt="tekipeps" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmeditWeb&show_icons=true&locale=en&layout=compact" alt="Emeditweb" align="center" /></div>
 <br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EmeditWeb&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
