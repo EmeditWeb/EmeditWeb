@@ -20,11 +20,12 @@
 -  💴 Get N1000 by saving with Piggyvest using my [link](https://www.piggyvest.com/?newref=1&ref=6ba3fac4a90220) now
 
 -  🏧  Piggyvest : Over ₦95,000,000,000 paid out in 2020!
+https://github-profile-trophy.vercel.app/?username=heme=tokyonight
 
 ## <center>My Medals<center/>
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emeditweb" alt="emeditweb" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/emeditweb"><img src="https://github-profile-trophy.vercel.app/?username=emeditweb&theme=tokyonight" alt="emeditweb" /></a> </p>
 
   
 
