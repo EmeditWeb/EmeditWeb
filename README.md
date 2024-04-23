@@ -11,7 +11,7 @@
 -  ❤ Visit My First React [App](https://aul-chatapp.netlify.app)
   
 
-- ❓ Ask me about anything related to Php,Java and related languages  
+- ❓ Ask me about anything related to Python,Sql,Php and related front-end languages  
   
 
 -  🎮 I play [torn](https://www.torn.com/2230743) in my spare time 
@@ -19,8 +19,8 @@
 
 -  💴 Get N1000 by saving with Piggyvest using my [link](https://www.piggyvest.com/?newref=1&ref=6ba3fac4a90220) now
 
--  🏧  Piggyvest : Over ₦95,000,000,000 paid out in 2020!
-https://github-profile-trophy.vercel.app/?username=heme=tokyonight
+-  🏧  Piggyvest : Over N95,000,000,000 paid out in 2020!
+
 
 ## <center>My Medals<center/>
 <br>
