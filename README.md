@@ -3,111 +3,66 @@
   <br>
 
   
-### <div align="center"> :wave: <em>Hi, My name is Itighise, Emmanuel Edet,<br> and am a Freelance Frontend Developer<br>💻 working remotely.</em></div>  
-  
-
-- 🌱 I’m currently learning React and Node.js with JsMastery   
-
--  ❤ Visit My First React [App](https://aul-chatapp.netlify.app)
-  
-
-- ❓ Ask me about anything related to Python,Sql,Php and related front-end languages  
-  
-
--  🎮 I play [torn](https://www.torn.com/2230743) in my spare time 
-
-
--  💴 Get N1000 by saving with Piggyvest using my [link](https://www.piggyvest.com/?newref=1&ref=6ba3fac4a90220) now
-
--  🏧  Piggyvest : Over N95,000,000,000 paid out in 2020!
-
-
-## <center>My Medals<center/>
-<br>
-
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/emeditweb"><img src="https://github-profile-trophy.vercel.app/?username=emeditweb&theme=tokyonight" alt="emeditweb" /></a> </p>
-
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+ <div align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531843477/4244/blob-excited.gif?1531843477" width="100" />
+  <h1>Hey there, I'm Emmanuel Itighise!</h1>
 </div>
 
-</td><td valign="top" width="33%">
+### 👋 A little about me...
 
+I'm a **Microbiologist**, a passionate **Data Analyst**, and an **AI enthusiast** driven to solve real-world problems in health, technology, and commerce using data-driven solutions. My unique background allows me to bring a critical, analytical eye to complex datasets, transforming raw information into actionable insights.
 
+I am actively exploring the vast world of machine learning, deep learning, and predictive analytics, always seeking to build models that have a tangible impact. This journey is fueled by a desire to innovate and contribute to a data-driven future.
 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+### 🛠️ My Technical Toolbox
+
+Here are some of the tools and technologies I use to turn data into solutions:
+
+| Category          | Tools & Technologies                                                                                                                                                                                                                             |
+| :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)                                            |
+| **Data Analysis** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)                                         |
+| **ML & AI** | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)         |
+| **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-005C90?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4078c0?style=for-the-badge&logo=seaborn&logoColor=white)                        |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-005C90?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)                             |
+| **BI & Tools** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)                       |
+
+### 🌟 Featured Projects
+
+Here are a few of my projects that best showcase my skills and problem-solving approach.
+
+#### 1. Predictive Analytics for Order Delivery Status
+- **Description:** A machine learning project to build a predictive model that classifies order delivery status into 'Late', 'On-time', or 'Early'.
+- **Problem Solved:** Addressed a key logistics challenge by providing an early warning system for delivery outcomes.
+- **Technologies:** `Python`, `Pandas`, `Scikit-learn`, `Matplotlib`.
+- **Repository:** **[https://github.com/EmeditWeb/Predictive-Analytics-for-Order-Delivery-Status-]**
+
+#### 2. Speech Recognition Project
+- **Description:** A voice-based application built with the functionality of OpenAI's Whisper Model for human speech recognition.
+- **Problem Solved:** Provides a robust solution for converting spoken language into accurate text, which is crucial for accessibility, transcription services, and voice-controlled applications.
+- **Technologies:** `Python`, `Whisper Model by OpenAI`.
+- **Repository:** **[https://github.com/EmeditWeb/Speech-Recognition-App]**
+
+---
+
+> Feel free to explore my repositories to discover more of my projects!
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmeditWeb&show_icons=true&theme=dark" alt="Emmanuel Itighise GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmeditWeb&theme=dark" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmeditWeb&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-</td></tr></table>  
+### 🌐 Connect with Me
 
-<br/>  
+- **LinkedIn:** https://ng.linkedin.com/in/emmanuel-itighise-a51633189
+- **Email:** itighiseemmanuele@gmail.com
+- **Portfolio/Website:** https://github.com/EmeditWeb
 
+---
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/EmeditWeb" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/emmanuelitighi7" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/emmanuel-itighise-a51633189" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/emmanuel.itighise.7" target="_blank">
-<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/_emeditworld" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-</a>  
-</div>  
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmeditWeb&show_icons=true&locale=en&layout=compact" alt="Emeditweb" align="center" /></div>
-<br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EmeditWeb&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
- 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=EmeditWeb&&style=flat-square" align="center" />
-</div>  
-  
-
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/EmeditWeb" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
+> "Data is the new oil. It's valuable, but only when refined." - Clive Humby
